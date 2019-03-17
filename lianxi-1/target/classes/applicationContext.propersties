@@ -1,0 +1,2 @@
+userDao=cn.kgc.tangcco.tcmp073.xumaofeng.tbusers.dao.impl.TbUserDaoImpl
+userServices=cn.kgc.tangcco.tcmp073.xumaofeng.tbusers.service.impl.UserServiceImpl
