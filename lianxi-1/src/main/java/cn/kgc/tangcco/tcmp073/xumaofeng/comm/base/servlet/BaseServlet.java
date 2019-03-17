@@ -18,7 +18,7 @@ public class BaseServlet extends HttpServlet{
 	public String suffix() {
 		return ".jsp";
 	}
-	
+	//qweqweqewqweqweqweqwe
 	@Override
 	protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		String methodName = request.getParameter("method");
