@@ -12,6 +12,6 @@ public class Student {
 	private Integer gradeid;
 	private String stuname;
 	private Integer gender,stunum,age;
-
+//手动阀手动阀手动阀手动阀手动阀
 //服务器注释
 }
