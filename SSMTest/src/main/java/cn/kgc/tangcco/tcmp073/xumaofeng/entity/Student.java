@@ -14,4 +14,5 @@ public class Student {
 	private Integer gender,stunum,age;
 //手动阀手动阀手动阀手动阀手动阀
 //服务器注释
+	//啊实打实的
 }
