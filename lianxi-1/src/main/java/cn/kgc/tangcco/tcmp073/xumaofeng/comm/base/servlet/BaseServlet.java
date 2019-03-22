@@ -18,6 +18,7 @@ public class BaseServlet extends HttpServlet{
 	public String suffix() {
 		return ".jsp";
 	}
+	//olkjlkjlkjnlkjkln
 	//qweqweqewqweqweqweqwe
 	@Override
 	protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
