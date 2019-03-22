@@ -12,6 +12,6 @@ public class Student {
 	private Integer gradeid;
 	private String stuname;
 	private Integer gender,stunum,age;
-	//第一次注释 啊啊啊
+
 //服务器注释
 }
