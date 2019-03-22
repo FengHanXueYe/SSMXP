@@ -12,5 +12,8 @@ public class Student {
 	private Integer gradeid;
 	private String stuname;
 	private Integer gender,stunum,age;
+
 	//okokoo
+
+	//sdfsdf
 }
